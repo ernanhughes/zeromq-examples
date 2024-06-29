@@ -1,0 +1,5 @@
+pyzmq
+gevent
+jupyter
+ipykernel
+numpy
